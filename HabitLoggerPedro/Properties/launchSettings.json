@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HabitLoggerPedro": {
+      "commandName": "Project",
+      "workingDirectory": "T:\\interfaces\\HabitLoggerPedro"
+    }
+  }
+}
